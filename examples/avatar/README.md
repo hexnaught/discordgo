@@ -23,7 +23,7 @@ go build
 
 ### Usage
 
-This example uses bot tokens for authentication only. While email/password is 
+This example uses bot tokens for authentication only. While email/password is
 supported by DiscordGo, it is not recommended to use them.
 
 ```
@@ -45,5 +45,5 @@ The below example shows how to set your Avatar from a local file.
 The below example shows how to set your Avatar from a URL.
 
 ```sh
-./avatar -t TOKEN -u https://raw.githubusercontent.com/bwmarrin/discordgo/master/docs/img/discordgo.svg
+./avatar -t TOKEN -u https://raw.githubusercontent.com/hexnaught/discordgo/master/docs/img/discordgo.svg
 ```
